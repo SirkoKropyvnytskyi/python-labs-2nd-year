@@ -13,8 +13,7 @@
     Варіант 7: Розробити програму для обчислення залишку від ділення.
 
 3. Код програми
-```
-python
+```python
 
 a = input("Enter a number: ")
 b = input("Enter another number: ")
