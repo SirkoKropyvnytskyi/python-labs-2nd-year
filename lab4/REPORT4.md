@@ -1,4 +1,6 @@
 ЛАБОРАТОРНА РОБОТА № 4 
+Посилання:
+https://github.com/SirkoKropyvnytskyi/python-labs-2nd-year
 
 Тема: Використання функцій та параметрів у мові програмування Python 
 
