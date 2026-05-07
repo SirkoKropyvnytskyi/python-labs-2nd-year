@@ -1,4 +1,4 @@
-ЛАБОРАТОРНА РОБОТА № 6 
+ЛАБОРАТОРНА РОБОТА № 7 
 Посилання:
 https://github.com/SirkoKropyvnytskyi/python-labs-2nd-year
 
